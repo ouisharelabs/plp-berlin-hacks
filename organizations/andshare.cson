@@ -1,0 +1,19 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Organization"
+id: "http://andshare.co/orga"
+name: "&share"
+
+contactPoint: [
+  {
+    type: "ContactPoint"
+    id: "https://github.com/andshareteam"
+    name: "Github"
+  }
+]
+
+member: [
+  {
+    type: "Person"
+    name: "Alex"
+  }
+]

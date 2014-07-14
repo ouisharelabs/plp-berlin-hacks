@@ -1,0 +1,50 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Event"
+id: "http://2014.okfestival.org"
+name: "OKFestival 2014"
+startDate: "2014-07-15T8:00:00Z"
+endDate: "2014-07-17TT16:00:00Z"
+
+location:
+  type: "Place"
+  id: "http://palais-kulturbrauerei.de"
+  name:
+    de: "Palais in der Kulturbrauerei"
+    geo:
+      type: "GeoCoordinates"
+      latitude: 52.51049
+      longitude: 13.42580
+
+subEvent: [
+  {
+    type: "Event"
+    id: "http://hackmakethebank.org/4"
+    name: "Hack Make Berlin #4"
+  }
+  {
+    type: "Event"
+    id: "http://hacking.ouishare.net/events/ouishare-labs-hacks-berlin"
+    name: "OuiShare Labs: Hacks Berlin"
+  }
+]
+
+organizer: [
+  {
+    type: "Organization"
+    id: "http://okfn.org"
+    name: "Open Knowledge Foundation"
+  }
+]
+
+attendee: [
+  {
+    type: "Person"
+    id: "http://jameslewis.com"
+    name: "James Lewis"
+  }
+  {
+    id: "https://wwelves.org/perpetual-tripper"
+    type: "Person"
+    name: "elf Pavlik"
+  }
+]

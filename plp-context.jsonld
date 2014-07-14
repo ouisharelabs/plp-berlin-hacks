@@ -13,6 +13,7 @@
     "topic": "cco:topic",
     "attendeeIn": { "@reverse": "attendee" },
     "organizerIn": { "@reverse": "organizer" },
-    "superOrganization": { "@reverse": "subOrganization" }
+    "superOrganization": { "@reverse": "subOrganization" },
+    "provides": { "@reverse": "provider" }
   }
 }

@@ -1,0 +1,9 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Service"
+id: "http://sharetribe.com"
+name: "Sharetribe hosting"
+provider:
+  type: "Organization"
+  id: "http://sharetribe.org"
+  name: "Sharetribe"
+

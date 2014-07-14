@@ -1,0 +1,4 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Asset"
+id: "http://hackers4peace.net/h4p-vm"
+name: "h4p virtual machine"

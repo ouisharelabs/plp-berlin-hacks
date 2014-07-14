@@ -1,0 +1,34 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Organization"
+id: "http://okfn.org"
+name: "Open Knowledge Foundation"
+
+contactPoint: [
+  {
+    type: "ContactPoint"
+    id: "https://github.com/okfn"
+    name: "Github"
+  }
+]
+
+subOrganization: [
+  type: "Organization"
+  id: "http://okfestival.org"
+  name: "OKFestival"
+]
+
+member: [
+  {
+    type: "Person"
+    id: "https://wwelves.org/perpetual-tripper"
+    name: "elf Pavlik"
+  }
+]
+
+event: [
+  {
+    type: "Event"
+    id: "http://2014.okfestival.org"
+    name: "OKFestival 2014"
+  }
+]

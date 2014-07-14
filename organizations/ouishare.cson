@@ -1,0 +1,58 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Organization"
+id: "http://ouishare.net"
+name: "OuiShare"
+
+subOrganization:
+  type: "Organization"
+  id: "http://labs.ouishare.net"
+  name: "OuiShare"
+
+contactPoint: [
+  {
+    type: "ContactPoint"
+    id: "https://github.com/ouishare"
+    name: "Github"
+  }
+  {
+    type: "ContactPoint"
+    id: "https://twitter.com/ouishare"
+    name: "Twitter"
+  }
+  {
+    type: "ContactPoint"
+    id: "https://plus.google.com/+ouishare"
+    name: "Google+"
+  }
+  {
+    type: "ContactPoint"
+    id: "https://www.facebook.com/groups/OuiShare/"
+    name: "Facebook group"
+  }
+  {
+    type: "ContactPoint"
+    id: "https://www.facebook.com/ouishare"
+    name: "Facebook page"
+  }
+]
+
+member: [
+  {
+    type: "Person"
+    id: "https://wwelves.org/perpetual-tripper"
+    name: "elf Pavlik"
+  }
+]
+
+event: [
+  {
+    type: "Event"
+    id: "http://2013.ouisharefest.com"
+    name: "OuiShare Fest 2013"
+  }
+  {
+    type: "Event"
+    id: "http://2014.ouisharefest.com"
+    name: "OuiShare Fest 2014"
+  }
+]

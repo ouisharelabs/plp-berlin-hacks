@@ -1,0 +1,15 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: ["Project", "Asset"]
+id: "http://sharetribe.org/open-source"
+name: "Sharetribe"
+
+maintainer: [
+  {
+    type: "Person"
+    name: "Juho"
+  }
+  {
+    type: "Person"
+    name: "Antti"
+  }
+]

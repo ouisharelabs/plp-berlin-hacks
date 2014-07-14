@@ -1,0 +1,17 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Service"
+id: "http://andshare.co"
+name: "&andshare"
+
+provider:
+  type: "Organization"
+  id: "http://sharetribe.org"
+  name: "Sharetribe"
+
+contactPoint: [
+  {
+    type: "ContactPoint"
+    id: "https://twitter.com/http://twitter.com/andshareteam"
+    name: "Github"
+  }
+]

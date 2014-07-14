@@ -1,0 +1,23 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Organization"
+id: "http://sharetribe.org"
+name: "Sharetribe"
+
+contactPoint: [
+  {
+    type: "ContactPoint"
+    id: "https://github.com/sharetribe"
+    name: "Github"
+  }
+]
+
+member: [
+  {
+    type: "Person"
+    name: "Juho"
+  }
+  {
+    type: "Person"
+    name: "Antti"
+  }
+]
