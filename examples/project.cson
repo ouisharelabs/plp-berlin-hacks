@@ -1,0 +1,4 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: ["Project", "Asset"]
+id: "http://hackers4peace.net/portable-linked-profiles"
+name: "Portable Linked Profiles"

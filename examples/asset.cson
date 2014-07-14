@@ -1,0 +1,5 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+type: "Asset"
+id: "http://labs.ouishare.net/assets/banana-pi"
+name: "Raspberry Pi"
+

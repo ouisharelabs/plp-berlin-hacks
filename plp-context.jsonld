@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "id": "@id",
+    "type": "@type",
+    "cco": "http://purl.org/ontology/cco/core#",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "doap": "http://usefulinc.com/ns/doap#",
+    "Asset": "Product",
+    "Request": "Demand",
+    "Project": "doap:Project",
+    "habit": "cco:habit",
+    "topic": "cco:topic",
+    "attendeeIn": { "@reverse": "attendee" },
+    "organizerIn": { "@reverse": "organizer" },
+    "superOrganization": { "@reverse": "subOrganization" }
+  }
+}

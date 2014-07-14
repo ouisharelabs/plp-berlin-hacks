@@ -1,0 +1,8 @@
+"@context": "http://ns.wwelves.org/lpp/plp/draft"
+  type: "Place"
+  id: "http://spreeacker.de"
+  name: "Spreeacker"
+    geo:
+      type: "GeoCoordinates"
+      latitude: 52.51049
+      longitude: 13.42580
