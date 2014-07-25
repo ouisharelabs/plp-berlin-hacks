@@ -2,6 +2,15 @@
 
 https://github.com/ouisharelabs/plp-berlin-hacks
 
+## adding to your homepage
+
+You can make your profile document discoverable either of:
+
+1. [Content Negotiation](http://en.wikipedia.org/wiki/Content_negotiation)
+2. [RDFa](http://www.w3.org/TR/xhtml-rdfa-primer/)
+3. [rel="alternate"](http://www.w3.org/TR/html401/struct/links.html#h-12.3.3)
+4. [JSON-LD in HTML](http://www.w3.org/TR/json-ld-syntax/#embedding-json-ld-in-html-documents)
+
 ## preparation steps
 
 **example** profiles in ```./examples```
